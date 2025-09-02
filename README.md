@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I’m Ronny
 
-<!--
-**LibreRonny/LibreRonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-time Android developer. Part-time gamer. Snooker enthusiast.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tech Stack
+
+- **Android Development** (Kotlin)
+- Jetpack Compose
+- Room Database
+- Hilt (Dagger)
+- Navigation components
+- Everything else Kotlin & Android
+
+---
+
+## 🚀 Featured Project
+
+### POS Billing Software for SMEs
+Built a robust POS billing solution tailored specifically for wholesale enterprises. Prints receipts, streamlines sales, and helps businesses run smoother.  
+*Proudly crafted from scratch with a focus on real-world efficiency and reliability.*
+
+---
+
+## 🎮 Outside of Code
+
+When I’m not shipping features or fixing bugs, you’ll probably find me:
+- Sinking balls on the snooker table
+- Gaming to unwind
+- Learning and building—because there’s always more to create
+
+---
+    
+**Always open to new challenges and collaborations!**
+
