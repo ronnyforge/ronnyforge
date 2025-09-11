@@ -17,11 +17,11 @@
 - Everything else Kotlin & Android
 
 ---
-## My Featured Project
+## My Featured Project <a href="https://github.com/ronnydrooid/RetailEase"> click to view</a>
 
 POS Billing Software for SMEs
-Built a robust POS billing solution tailored specifically for wholesale enterprises. Prints receipts, streamlines sales, and helps businesses run smoother.  
-<a href="https://github.com/ronnydrooid/RetailEase"> <p>click to view</p></a>
+Built a robust POS billing solution tailored specifically for wholesale enterprises. Prints receipts, streamlines sales, and helps businesses run smoother.
+
 ---
 
 ## Outside of Code
