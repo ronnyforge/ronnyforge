@@ -19,7 +19,7 @@
 ---
 ## My Featured Project
 
-### POS Billing Software for SMEs
+ POS Billing Software for SMEs
 Built a robust POS billing solution tailored specifically for wholesale enterprises. Prints receipts, streamlines sales, and helps businesses run smoother.  
 <a href="https://github.com/ronnydrooid/RetailEase"> <p>click to view</p></a>
 ---
