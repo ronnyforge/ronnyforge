@@ -1,28 +1,38 @@
-# 👋 Hey, I’m Ronny
+<div align="center">
 
+# Hey, I'm Ronny 👋
+
+</div>
+
+<p align="center">
 <img src="https://images.steamusercontent.com/ugc/961978316112851075/4452AA443CF755A9B4F7F58E40794A74D6C73B26/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+</p>
 
-**Full-time Android developer. Part-time gamer. Snooker enthusiast.**
 
----
+<div align="center">
+  
+  **Full-time Android developer. Part-time gamer. Snooker enthusiast.**
+  
+</div>
 
+<div align ="center">
+  
 ## Connect with me
 
-<a href="https://g.dev/ronnyA" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Google%20Developers-1A73E8?style=for-the-badge&logo=googlesummerofcode&logoColor=white" alt="Google Developers" />
-</a>
-<a href="https://steamcommunity.com/id/brahmibae/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-</a>
-<a href="https://t.me/theDeadWiz" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="mailto:ronny.9fxkl@simplelogin.co" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+</div>
 
+<p align="center">
+<a href="https://g.dev/ronnyA"><img src="https://img.shields.io/badge/Google%20Developers-1A73E8?style=for-the-badge&logo=googlesummerofcode&logoColor=white" alt="Google Developers" /></a>
+<a href="https://steamcommunity.com/id/brahmibae/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+<a href="https://t.me/theDeadWiz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:ronny.9fxkl@simplelogin.co"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+---
+<div align="center">
+  
 ## Skills & Tech Stack <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="20" height="20" /></a>
-
+</div>
 
 - **Android Development** (Kotlin)
 - Jetpack Compose
@@ -32,15 +42,19 @@
 - Everything else Kotlin & Android
 
 ---
+<div align="center">
+  
 ## My Featured Project <a href="https://github.com/ronnydrooid/RetailEase"> click to view</a>
+</div>
 
 POS Billing Software for SMEs
 Built a robust POS billing solution tailored specifically for wholesale enterprises. Prints receipts, streamlines sales, and helps businesses run smoother.
 
 ---
-
+<div align="center">
+  
 ## Outside of Code
-
+</div>
 When I’m not shipping features or fixing bugs, you’ll probably find me:
 - Sinking balls on the snooker table
 - Gaming to unwind
