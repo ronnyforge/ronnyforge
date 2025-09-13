@@ -6,6 +6,21 @@
 
 ---
 
+## Connect with me
+
+<a href="https://g.dev/ronnyA" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Google%20Developers-1A73E8?style=for-the-badge&logo=googledevelopers&logoColor=white" alt="Google Developers" />
+</a>
+<a href="https://steamcommunity.com/id/brahmibae/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+<a href="https://t.me/theDeadWiz" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:ronny.9fxkl@simplelogin.co" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 ## Skills & Tech Stack <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="20" height="20" /></a>
 
 
