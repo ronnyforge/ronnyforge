@@ -9,7 +9,7 @@
 ## Connect with me
 
 <a href="https://g.dev/ronnyA" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Google%20Developers-1A73E8?style=for-the-badge&logo=googledevelopers&logoColor=white" alt="Google Developers" />
+  <img src="https://img.shields.io/badge/Google%20Developers-1A73E8?style=for-the-badge&logo=googlesummerofcode&logoColor=white" alt="Google Developers" />
 </a>
 <a href="https://steamcommunity.com/id/brahmibae/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
